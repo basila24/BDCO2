@@ -12,7 +12,7 @@ public class Log {
 
 
 	public static void endTestCase(String sTestCaseName){
-		Log.info("Ended Test Case");
+		Log.info("Ended Teseet Case");
 	}
 
 	public static void info(String message)
