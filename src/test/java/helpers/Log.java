@@ -8,6 +8,7 @@ public class Log {
 	public static void startTestCase(String sTestCaseName){
 		Log.info("Started Test cases");
 		System.out.println("Log information.o(\"Started cases\");");
+		System.out.println("Version control");
 	}
 
 
